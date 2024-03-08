@@ -41,12 +41,13 @@
  <a href="https://instagram.com/dexterlovemumu23" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
-
  <!-- <a href="https://instagram.com/dexterlovemumu23" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://img.shields.io/twitter/follow/dexterlovemumu?label=Twitter&logo=twitter&style=for-the-badge&color=blue"></a>
- 
+  <a href="https://t.me/dexterlovemumu" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+ </a>
  <a href="https://twitter.com/dexterlovemumu" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
