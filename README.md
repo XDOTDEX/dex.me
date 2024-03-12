@@ -7,7 +7,7 @@
 
 <!--
 <p align="center">
-  <a href="https://github.com/dexterlovemumu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/mdakijislam23?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
  -->
@@ -22,7 +22,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://instagram.com/dexterlovemumu23">Md Akij Islam</a></b>
+                <b><a target="_blank" href="https://mdakijislam23.github.io/dexter">Md Akij Islam</a></b>
         </samp>
 </h3>
 
@@ -38,10 +38,10 @@
 </p>
 
 <p align="center">
- <a href="https://instagram.com/dexterlovemumu23" target="blank">
+ <a href="https://mdakijislam23.github.io/dexter" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
- <!-- <a href="https://instagram.com/dexterlovemumu23" target="_blank">
+ <!-- <a href="https://mdakijislam23.github.io/dexter" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://img.shields.io/twitter/follow/dexterlovemumu?label=Twitter&logo=twitter&style=for-the-badge&color=blue"></a>
@@ -66,10 +66,11 @@
 <p>
  <img align="right" width="350" src="https://i.postimg.cc/JzsSbpTK/dexter.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge.<br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features.<br/><br/>
+ 🥺 &emsp; I'm tired of getting my hopes up for things that i know will never happen.<br/><br/>
  📧 &emsp; Reach me anytime: mdakijislam44@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://wa.me/message/6ZRN67DH4LG2N1)
+ 💬 &emsp; Ask me about anything. [here](https://mdakijislam23.github.io/dexter)
 
 </p>
 
@@ -101,30 +102,30 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://instagram.com/dexterlovemumu23)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://instagram.com/dexterlovemumu23)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://instagram.com/dexterlovemumu23)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://instagram.com/dexterlovemumu23)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam23.github.io/dexter)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam23.github.io/dexter)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam23.github.io/dexter/)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam23.github.io/dexter/)
 <p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/mdakijislam23?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <br/>
 <hr/>
 <br/>
 <p align="center">
-  <a href="https://twitter.com/dexterlovemumu">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dexterlovemumu%20&theme=radical&exclude_days=Fri&card_width=600" alt="Saif's GitHub streak"/>
+  <a href="https://mdakijislam23.github.io/dexter">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mdakijislam23%20&theme=radical&exclude_days=Fri&card_width=600" alt="Md Akij Islam"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/mdakijislam23">
     <img src="https://i.postimg.cc/QCFzgKY2/IMG-20240301-143012-583.jpg" alt="Md Akij Islam GitHub Contribution"/>
   </a>
 </p>
 <a> 
-    <a href="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"><img alt="Dexter Github Stats" src="https://github-readme-stats.vercel.app/api?username=dexterlovemumu" height="192px" width="49.5%"/></a>
-  <a href="https://instagram.com/dexterlovemumu23"><img alt="Dexter Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"><img alt="Dexter Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdakijislam23" height="192px" width="49.5%"/></a>
+  <a href="https://mdakijislam23.github.io/dexter"><img alt="Dexter Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Dexter' Graph](https://github-readme-activity-graph.vercel.app/graph?username=dexterlovemumu&custom_title=DEXTER%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Dexter' Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdakijislam23&custom_title=DEXTER%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
