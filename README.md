@@ -16,7 +16,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mdakijislam.github.io/dexter">Md Akij Islam</a></b>
+                <b><a target="_blank" href="https://mdakijislam.github.io/dexter.com">Md Akij Islam</a></b>
         </samp>
 </h3>
 
@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">
- <a href="https://mdakijislam.github.io/dexter" target="blank">
+ <a href="https://mdakijislam.github.io/dexter.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Dexter" />
  </a>
- <!-- <a href="https://mdakijislam.github.io/dexter" target="_blank">
+ <!-- <a href="https://mdakijislam.github.io/dexter.com" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
  <a href="https://img.shields.io/twitter/follow/dexterlovemumu?label=Twitter&logo=twitter&style=for-the-badge&color=blue"></a>
@@ -64,7 +64,7 @@
  ❤️ &emsp; Love to writing code and learning new features.<br/><br/>
  🥺 &emsp; I'm tired of getting my hopes up for things that i know will never happen.<br/><br/>
  📧 &emsp; Reach me anytime: mdakijislam44@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything. [here](https://mdakijislam.github.io/dexter)
+ 💬 &emsp; Ask me about anything. [here](https://mdakijislam.github.io/dexter.com)
 
 </p>
 
@@ -98,7 +98,7 @@
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam23.github.io/dexter)
 [![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam.github.io/dexter)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam.github.io/dexter/)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://mdakijislam.github.io/dexter.com)
 
 
 <p align="left">
@@ -108,7 +108,7 @@
 <hr/>
 <br/>
 <p align="center">
-  <a href="https://mdakijislam.github.io/dexter">
+  <a href="https://mdakijislam.github.io/dexter.com">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mdakijislam%20&theme=radical&exclude_days=Fri&card_width=600" alt="Md Akij Islam"/>
   </a>
 </p>
@@ -119,7 +119,7 @@
 </p>
 <a> 
     <a href="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"><img alt="Dexter Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdakijislam" height="192px" width="49.5%"/></a>
-  <a href="https://mdakijislam.github.io/dexter"><img alt="Dexter Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://mdakijislam.github.io/dexter.com"><img alt="Dexter Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
