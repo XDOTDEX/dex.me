@@ -113,9 +113,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/mdakijislam">
-    <img src="" alt="Md Akij Islam GitHub Contribution"/>
-  </a>
+  
 </p>
 <a> 
     <a href="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"><img alt="Dexter Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdakijislam" height="192px" width="49.5%"/></a>
