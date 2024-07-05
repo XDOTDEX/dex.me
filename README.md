@@ -114,7 +114,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/mdakijislam">
-    <img src="https://i.postimg.cc/QCFzgKY2/IMG-20240301-143012-583.jpg" alt="Md Akij Islam GitHub Contribution"/>
+    <img src="" alt="Md Akij Islam GitHub Contribution"/>
   </a>
 </p>
 <a> 
